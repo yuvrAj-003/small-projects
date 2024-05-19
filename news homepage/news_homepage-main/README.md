@@ -1,3 +1,5 @@
+#url - https://main--classy-fudge-db4a9a.netlify.app/
+
 # Frontend Mentor - News homepage
 
 ![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
