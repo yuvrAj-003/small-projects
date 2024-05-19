@@ -1,4 +1,4 @@
-#url - https://main--classy-fudge-db4a9a.netlify.app/
+url - https://main--classy-fudge-db4a9a.netlify.app/
 
 # Frontend Mentor - News homepage
 
